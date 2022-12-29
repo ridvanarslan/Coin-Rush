@@ -9,5 +9,7 @@ I used Object Pool for thrown axe obstacles,
 Generic Singleton class for managers,
 State Pattern for game states (LevelCompleted, Paused, Game, GameOver)
 
-https://user-images.githubusercontent.com/56042913/209556700-303c2d43-ccd5-4f25-b11f-c42d984c103c.mp4
+
+https://user-images.githubusercontent.com/56042913/210004000-fa6a12bd-d99b-41c0-a38e-3fe14197973a.mp4
+
 
